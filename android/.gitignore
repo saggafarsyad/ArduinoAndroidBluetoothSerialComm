@@ -1,2 +1,6 @@
 .google/
 .idea/
+BluetoothChat.iml
+gradle/
+gradlew
+gradlew.bat
