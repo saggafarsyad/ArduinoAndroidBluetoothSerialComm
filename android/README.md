@@ -2,7 +2,6 @@ Android BluetoothChat Sample
 ===================================
 
 ## NOTE: This Sample has been modified to enable communication between Android to Arduino
-## TEST
 
 This sample shows how to implement two-way text chat over Bluetooth between two Android devices, using
 all the fundamental Bluetooth API capabilities.
